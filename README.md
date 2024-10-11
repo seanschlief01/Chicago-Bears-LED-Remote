@@ -16,7 +16,7 @@ The **Chicago Bears LED Remote** is for controlling LED lighting in my home ente
 ## Components
 
 - **Microcontrollers**: 2x ESP32 Huzzahs and Arduino UNO
-- **LED Strip**: High-powered LED strips
+- **LED Strip**: BTF-LIGHTING WS2812B LED strips
 - **Power Supply**: 20A 5V AC to DC Power Supply
 - **Other Electrical Components**: 3.3V to 5V level converter and distribution block
 - **PCB**: Custom-designed to interface hardware components
