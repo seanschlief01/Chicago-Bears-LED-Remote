@@ -1,6 +1,6 @@
 # Chicago-Bears-LED-Remote
 
-![LED Remote](path/to/your/image.png)
+![LED Remote](https://github.com/seanschlief01/Chicago-Bears-LED-Remote/tree/main/images/Built.png)
 
 ## Overview
 
